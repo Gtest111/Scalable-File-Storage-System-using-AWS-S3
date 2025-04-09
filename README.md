@@ -41,8 +41,8 @@ AWS_ACCESS_KEY_ID=your_aws_access_key AWS_SECRET_ACCESS_KEY=your_aws_secret_key 
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/file-storage-system.git
-cd file-storage-system
+git clone https://github.com/your-username/file-storage-system.git](https://github.com/Gtest111/Scalable-File-Storage-System-using-AWS-S3.git
+cd Scalable-File-Storage-System-using-AWS-S3
 
 npm install
 npm start
